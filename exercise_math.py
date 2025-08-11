@@ -12,5 +12,7 @@ def math():
     print (a//b)    
     #resto
     print (a%b)
+    #valor real de la division
+    print (a/b)
 
 math()
